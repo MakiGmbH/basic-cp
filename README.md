@@ -125,7 +125,7 @@ Die Sandbox ist eine Lern- und Testumgebung, keine produktive Sicherheitsgrenze.
 ## Projektstruktur
 
 ```text
-basic-cp/
+maki-sandbox-basic/
 ├── .gitignore
 ├── Dockerfile
 ├── docker-compose.yml
